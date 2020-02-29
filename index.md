@@ -1,13 +1,16 @@
 ---
-title: Home
+title: Binvenue
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Madiba  Institute
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: 'courses '
+  description: ''
+  icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
@@ -22,9 +25,10 @@ textline: |
 
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: 'En savoir plus '
   href: "/about"
 show_news: true
+show_staff: false
 menu:
   navigation:
     identifier: _index
