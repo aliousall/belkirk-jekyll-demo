@@ -8,7 +8,8 @@ show_staff: true
 menu:
   navigation:
     identifier: _contact
-    weight: 5
+    weight: 4
+    title: Nous contactez
 
 ---
 ## Hours of Operation
